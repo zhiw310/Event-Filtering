@@ -1,0 +1,10 @@
+defaults:
+  - base
+
+name: rnndet
+backbone:
+  name: ???
+fpn:
+  name: ???
+head:
+  name: ???
